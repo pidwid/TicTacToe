@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="gameName">Tic Tac Toe</string>
+    <string name="player_1">Player 1 :</string>
+    <string name="player_2">Player 2 :</string>
+    <string name="reset">RESET BOARD</string>
+    <string name="resetall">RESET ALL</string>
+    <string name="bottom">Made with ♥ in India</string>
+</resources>
